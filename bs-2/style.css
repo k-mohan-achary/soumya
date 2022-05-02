@@ -1,0 +1,124 @@
+.body
+{
+	
+}
+.head
+{
+	background-image:url("1.jpg");
+	height:450px;
+	
+}
+.head .logo
+{
+	position:relative;
+	margin-top:40px;
+	margin-left:-40px;
+}
+.head .link
+{
+	position:relative;
+	margin-top:25px;
+	margin-left:40px;
+	font-size:20px;
+}
+ul li a
+{
+	text-decoration:none;
+}
+.tab
+{
+	height:500px;
+	background-color:#0a0a0a;
+	margin-top:180px;
+}
+.tab .hed
+{
+	margin-top:80px;
+}
+.tab img
+{
+	width:100%;
+	margin-top:95px;
+	margin-left:180px;
+}
+.shoreline
+{
+	margin-top:80px;
+	height:350px;
+}
+.shoreline img
+{
+	width:100%;
+}
+.shoreline .para
+{
+	margin-top:180px;
+}
+.misty
+{
+	background-color:;
+	margin-top:200px;
+	height:800px;
+}
+.misty img
+{
+	width:100%;
+}
+.misty .color
+{
+	background-color:black;
+}
+.misty h3
+{
+	margin-top:100px;
+}
+.subscribe 
+{
+	background-image:url("5.jpg");
+	height:400px;
+}
+.subscribe .pa
+{
+	margin-top:100px;
+}
+.footer
+{
+	background-color:#0a0a0a;
+	height:400px;
+}
+.footer .div
+{
+	background-color:white;
+	border-radius:10px;
+	margin-left:50px;
+	height:100px;
+	
+}
+.footer img
+{
+	height:50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

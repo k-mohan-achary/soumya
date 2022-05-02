@@ -1,0 +1,228 @@
+.body
+{
+	
+}
+.head
+{
+	background-image:url("header-bg.jpg");
+	height:650px;
+	width:100%;
+	margin-top:-120px;
+}
+.nav1
+{
+	position:fixed;
+	background-color:#2a2a2c;
+	top:0px;
+	width:100%;
+	z-index:5;
+	
+}
+.head h1
+{
+	margin-top:150px;
+}
+.head .logo
+{
+	margin-top:45px
+}
+.head .logo img
+{
+	width:70%;
+}
+.head .link
+{
+	margin-top:20px;
+	font-size:20px;
+}
+ul li a
+{
+	text-decoration:none;
+}
+.head .mid
+{
+	margin-top:200px;
+}
+.services
+{
+	height:400px;
+	margin-top:40px;
+}
+.services img
+{
+	/* width:100px;
+	height:100px; */
+}
+.portfolio
+{
+	height:1000px;
+	background-color:#e9ecef;
+}
+.portfolio h1 
+{
+	margin-top:30px;
+}
+.portfolio img 
+{
+	width:350px;
+	height:300px;
+}
+.portfolio img hover active
+{
+	background-color:yellow;
+}
+.portfolio .bg-white
+{
+	height:100px;
+	margin-top:-20px;
+	position:fix;
+}
+.portfolio  h2
+{
+	margin-top:20px;
+}
+.about
+{
+	height:1500px;
+	background-color:#f8f9fa;
+	
+}
+
+.about img 
+{
+	width:170px;
+	height:170px;
+	border:7px solid #e9ecef;
+}
+.about h1
+{
+	margin-top:30px;
+}
+.about h4
+{
+	margin-top:45px;
+}
+.about .div
+{
+	margin-left:20px;
+}
+.mohan
+{
+	border-left:2px solid #a3a199;
+	height:20px;
+	margin-left:100px;
+	padding-bottom:100px;
+	position:absolute;
+	top:50px;
+	left:5%;
+	margin-top:120px;
+}
+.bg-warning
+{
+	width:120px;
+	height:180px;
+	background-color:yellow;
+	border-radius:50%;
+	margin-left:480px;
+	border:7px solid #e9ecef;
+}
+.team
+{
+	height:650px;
+	background-color:#e9ecef;
+}
+.team h1 
+{
+	margin-top:30px;
+}
+.team img 
+{
+	width:300px;
+	height:300px;
+	border:7px solid #0000001a;
+}
+.team .icon img
+{
+	height:50px;
+	width:50px;
+	border:none;
+}
+.brand
+{
+	height:150px;
+	margin-top:60px;
+}
+.brand img
+{
+	height:80px;
+	width:200px;
+}
+.footer
+{
+	height:600px;
+	background-image:url(" map.png");
+	background-color:black;
+}
+.footer h1
+{
+	margin-top:50px;
+	
+}
+.footer form input
+{
+	width:500px; 
+	height:70px;
+	margin-left:70px;
+	margin-top:40px;
+	
+}
+.footer form textarea
+{
+	width:500px; 
+	height:320px;
+	margin-left:20px;
+	margin-top:40px;
+}
+
+.copyright
+{
+	height:80px;
+	margin-top:50px;
+}
+.copyright .icon img
+{
+	height:50px;
+	width:50px;
+}
+.copyright ul li 
+{
+	position:relative;
+	top:-20px;
+}
+.priya :active
+{
+	opacity:0.2
+}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
